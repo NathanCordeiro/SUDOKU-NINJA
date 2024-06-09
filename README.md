@@ -1,7 +1,7 @@
-# SUDOKU-NINJA
+# SUDOKU-NINJA🥷
 
 ## Overview
-This project, SUDOKU-NINJA, is a command-line application that combines an optimized Sudoku solver with a puzzle generator for conventional 9x9 puzzles, developed in C++. It provides an engaging and interactive way for users to solve or play Sudoku puzzles directly from their terminal or command prompt. The game features several preset puzzles and a robust backtracking algorithm that demonstrates the solution process, making it perfect for both enthusiasts and learners.
+This project, SUDOKU-NINJA, is a command-line application that combines an optimized Sudoku solver with a puzzle generator for conventional 9x9 puzzles, developed in C++🎮. It provides an engaging and interactive way for users to solve or play Sudoku puzzles directly from their terminal or command prompt. The game features several preset puzzles and a robust backtracking algorithm that demonstrates the solution process, making it perfect for both enthusiasts and learners🧩.
 
 ## What is Sudoku? For those living under a rock.
 Sudoku is a popular logic-based number puzzle. The objective is to fill a 9x9 grid with numbers from 1 to 9, following these rules:
@@ -23,16 +23,16 @@ Upon starting the game, you will be presented with the following menu options:
 | **Enter Numbers**     | Manually enter numbers into the puzzle grid.                  |
 | **Quit**              | Quit or exit the game.                                        |
 
-## Screenshot
+## Screenshot📸
 <table>
   <tr>
     <td><img src="./Images/sudoku.png" alt="Screenshot" width="350" /></td>
   </tr>
 </table>
 
-## Prerequisites
-- A C++ compiler 
-- Command-line interface
+## Prerequisites✅
+- A C++ compiler🖥️
+- Command-line interface💻
 
 ## Compilation
 To compile the project, follow these steps:
@@ -102,13 +102,13 @@ Sudoku
 ## Customization
 You can customize the preset puzzles in manager.cpp by modifying the presetPuzzles vector.
 
-To change the default colors, update the color variables in the code directly.
+To change the default colors, update the color variables in the code directly🎨.
 
 ## Contribution
-Contributions are welcome! Please fork the repository and create a pull request with your changes. 
+Contributions are welcome! Please fork the repository and create a pull request with your changes🚀. 
 
 ## Contact
-For questions or support, please contact me at nathanjohncordeiro@gmail.com.
+For questions or support, please contact me at nathanjohncordeiro@gmail.com📧.
 
 ## License
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
