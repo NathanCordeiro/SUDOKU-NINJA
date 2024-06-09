@@ -83,5 +83,8 @@ You can customize the preset puzzles in manager.cpp by modifying the presetPuzzl
 
 To change the default colors, update the color variables in the code directly.
 
+## Contribution
+Contributions are welcome! Please fork the repository and create a pull request with your changes. 
+
 ## License
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
