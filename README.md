@@ -11,3 +11,14 @@ Sudoku is a popular logic-based number puzzle. The objective is to fill a 9x9 gr
 - Each of the nine 3x3 sub-grids, called boxes, must contain all numbers from 1 to 9 without repetition.
 
 The puzzle starts with some cells already filled with numbers, and the player must fill in the remaining cells. Sudoku puzzles range in difficulty from easy to extremely challenging.
+
+## Features
+Upon starting the game, you will be presented with the following menu options:
+
+| Option                | Description                                                   |
+|-----------------------|---------------------------------------------------------------|
+| **New Puzzle**        | Load the next preset puzzle.                                  |
+| **Reset puzzle**      | Reset the puzzle to its initial state.                        |
+| **Solve Puzzle**      | Solve the current puzzle using the backtracking algorithm.    |
+| **Enter Numbers**     | Manually enter numbers into the puzzle grid.                  |
+| **Quit**              | Quit or exit the game.                                        |
