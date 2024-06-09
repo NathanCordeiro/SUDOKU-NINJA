@@ -1,0 +1,28 @@
+# Compiled binary files
+*.exe
+*.out
+
+# Object files
+*.obj
+*.o
+
+# Build directories
+build/
+bin/
+out/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.sln
+*.sublime-*
+
+# Dependency directories
+dependencies/
+lib/
+vendor/
+
+# Temporary files
+*.tmp
+*.bak
