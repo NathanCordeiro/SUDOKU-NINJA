@@ -24,6 +24,11 @@ Upon starting the game, you will be presented with the following menu options:
 | **Quit**              | Quit or exit the game.                                        |
 
 ## Screenshot
+<table>
+  <tr>
+    <td><img src="./Images/sudoku.png" alt="Screenshot" width="350" /></td>
+  </tr>
+</table>
 
 ## Prerequisites
 - A C++ compiler 
