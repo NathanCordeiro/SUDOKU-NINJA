@@ -43,7 +43,7 @@ To compile the project, follow these steps:
    ```
 2. Navigate to the directory containing the project files using the `cd` command.
    ```bash
-   cd SUDOKU-NINJA
+   cd SUDOKU-NINJA/Sudoku
    ```
 3. Compile the project using the following command:
    ```bash
