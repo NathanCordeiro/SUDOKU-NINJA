@@ -77,6 +77,27 @@ Sudoku
 | **solver.h**          | Header file declaring the functions used in `solver.cpp`.     |
 | **txt_styling.h**     | Contains ANSI escape codes for text styling.                  |
 
+</br>
+
+```
+ SUDOKU-NINJA/
+ │
+ ├── Images/
+ │   └── sudoku.png
+ │
+ ├── Sudoku/
+ │   ├── main.cpp
+ │   ├── manager.cpp
+ │   ├── manager.h
+ │   ├── solver.cpp
+ │   ├── solver.h
+ │   ├── txt_styling.h
+ │   └── Sudoku.exe (generated after compilation)
+ │
+ ├── LICENSE
+ ├── README.md
+ └── .gitignore
+```
 
 ## Customization
 You can customize the preset puzzles in manager.cpp by modifying the presetPuzzles vector.
