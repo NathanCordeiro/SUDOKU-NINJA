@@ -22,3 +22,7 @@ Upon starting the game, you will be presented with the following menu options:
 | **Solve Puzzle**      | Solve the current puzzle using the backtracking algorithm.    |
 | **Enter Numbers**     | Manually enter numbers into the puzzle grid.                  |
 | **Quit**              | Quit or exit the game.                                        |
+
+## Prerequisites
+- A C++ compiler 
+- Command-line interface
