@@ -37,3 +37,22 @@ To compile the project, follow these steps:
   g++ -o Sudoku main.cpp manager.cpp solver.cpp
   ```
   This will generate an executable file named Sudoku.exe on Windows or Sudoku on Unix-based systems.
+
+## Running the Game
+After compilation, you can run the game by executing the compiled file:
+#### On Windows:
+```bash
+Sudoku.exe
+```
+`OR`
+
+```bash
+Sudoku
+```
+
+#### On Unix-based systems (Linux/macOS):
+```bash
+./Sudoku
+```
+
+
