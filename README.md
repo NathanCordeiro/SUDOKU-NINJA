@@ -69,3 +69,6 @@ Sudoku
 You can customize the preset puzzles in manager.cpp by modifying the presetPuzzles vector.
 
 To change the default colors, update the color variables in the code directly.
+
+## License
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
