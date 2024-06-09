@@ -54,5 +54,13 @@ Sudoku
 ```bash
 ./Sudoku
 ```
-
+## File Structure
+| File                  | Description                                                   |
+|-----------------------|---------------------------------------------------------------|
+| **main.cpp**          | Contains the main function and the primary game loop.         |
+| **manager.cpp**       | Implements functions for handling the game menu, loading, resetting puzzles, and entering numbers. |
+| **manager.h**         | Header file declaring the functions used in `manager.cpp`.    |
+| **solver.cpp**        | Implements the Sudoku solving algorithm.                      |
+| **solver.h**          | Header file declaring the functions used in `solver.cpp`.     |
+| **txt_styling.h**     | Contains ANSI escape codes for text styling.                  |
 
