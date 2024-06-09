@@ -37,12 +37,18 @@ Upon starting the game, you will be presented with the following menu options:
 ## Compilation
 To compile the project, follow these steps:
 
-1. Open your command-line interface.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/NathanCordeiro/SUDOKU-NINJA.git
+   ```
 2. Navigate to the directory containing the project files using the `cd` command.
+   ```bash
+   cd SUDOKU-NINJA
+   ```
 3. Compile the project using the following command:
-  ```bash
-  g++ -o Sudoku main.cpp manager.cpp solver.cpp
-  ```
+   ```bash
+   g++ -o Sudoku main.cpp manager.cpp solver.cpp
+   ```
   This will generate an executable file named Sudoku.exe on Windows or Sudoku on Unix-based systems.
 
 ## Running the Game
